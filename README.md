@@ -90,11 +90,11 @@ yarn build
 
 Clone the repository and one-click deploy to Vercel for free!
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Blazity/next-saas-starter)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/RandintN/Blogging)
 
 Clone the repository and one-click deploy to Netlify for free!
 
-[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Blazity/next-saas-starter)
+[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RandintN/Blogging.git)
 
 ## 🧰 Built With
 
